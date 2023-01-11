@@ -7,7 +7,7 @@
 
 ---
 
-# Ampscript
+## Ampscript
 
 You have two options on how to enable syntax highlighting:
 
@@ -16,6 +16,6 @@ You have two options on how to enable syntax highlighting:
 
 ---
 
-# SSJS
+## SSJS
 
-Important: Make sure that your SSJS files end on _.ssjs and not on _.js.
+Important: Make sure that your SSJS files end on _.ssjs and not on_.js.
