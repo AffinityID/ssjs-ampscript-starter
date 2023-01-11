@@ -1,0 +1,21 @@
+{
+  "name": "ssjs-ampscript-starter",
+  "version": "1.0.0",
+  "description": "Starter project to aid with development in Saleforce Marketing Cloud",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AffinityID/ssjs-ampscript-starter.git"
+  },
+  "author": "Justin Cole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AffinityID/ssjs-ampscript-starter/issues"
+  },
+  "homepage": "https://github.com/AffinityID/ssjs-ampscript-starter#readme",
+  "devDependencies": {
+    "eslint": "^8.31.0",
+    "eslint-config-ssjs": "^1.1.11"
+  },
+  "extends": "ssjs",
+  "rules": {}
+}
