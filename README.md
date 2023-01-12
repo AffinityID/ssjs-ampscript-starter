@@ -1,4 +1,4 @@
-# SSJS Ampscript Starter Project
+# Marketing Cloud DevKit
 
 This project is a starter project to aid in development in Salesforce Marketing Cloud. It provides a simple and easy way to set up a development environment for SSJS and AMPscript, which are powerful programming languages used in digital marketing campaigns.
 
