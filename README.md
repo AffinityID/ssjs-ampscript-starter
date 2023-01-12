@@ -5,12 +5,11 @@ This project is a starter project to aid in development in Salesforce Marketing 
 ## Getting Started
 
 1. Clone the repository: `git clone https://github.com/AffinityID/ssjs-ampscript-starter.git`
-2. Install the recommended VSCode extensions:
 
--   [Salesforce Extension Pack](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode)
--   [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+2. Open the project in VSCode and you'll be prompted to install the recommended extensions, you can also check the list of recommended extensions in the "Recommended Extensions" tab or in the `extensions.json` file.
 
 3. Inside your project, run command line script `npm i` to install the necessary dependencies.
+
 4. Open the project in VSCode and start developing with SSJS and AMPscript. The starter project includes linting, auto-formatting, and code snippets for SSJS and AMPscript, which will make development easier and more efficient.
 
 ## Ampscript
